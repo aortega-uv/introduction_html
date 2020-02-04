@@ -1,0 +1,27 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "node-sass-middleware": "^0.11.0",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoSerrano23/Landing-Page---Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoSerrano23/Landing-Page---Practice/issues"
+  },
+  "homepage": "https://github.com/RodrigoSerrano23/Landing-Page---Practice#readme"
+}
